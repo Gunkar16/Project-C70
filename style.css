@@ -188,3 +188,20 @@ h5 {
 .movie_text span {
     color: #ff7700;
 }
+.movie_text span {
+    color: #ff7700;
+}
+.Tech_li{
+    margin-top: 13px;
+    
+}
+.Tech_li h4{
+    border-bottom:1px solid white;
+    padding:8px;
+}
+.Tech_li img{
+    border-radius: 25px;
+}
+.Tech_li p{
+    margin-top:10px;
+}
